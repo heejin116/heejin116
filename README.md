@@ -21,7 +21,7 @@
 
 ---
 
-### Awards & Certifications
+### Certifications
 
 SQLD — 한국데이터산업진흥원 `2026.03`
 
