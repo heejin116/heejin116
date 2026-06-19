@@ -26,6 +26,7 @@
 ### Awards & Certifications
 
 SQLD — 한국데이터산업진흥원 `2026.03`
+
 정보처리기사 — 필기 합격
 
 ---
