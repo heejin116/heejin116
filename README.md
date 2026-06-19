@@ -33,8 +33,11 @@ SQLD — 한국데이터산업진흥원 `2026.03`
 
 ### Tech Stack
 
-🖥️ **Languages** &nbsp; Python · Dart · TypeScript · JavaScript · C# · C
+🖥️ **Languages** &nbsp; Python · Dart · TypeScript · JavaScript · C#
 
 🚀 **Frameworks & Libraries** &nbsp; Flutter · React · PyTorch · HuggingFace
-
-🛠️ **Tools & Infra** &nbsp; Unity · Docker · Vercel · MySQL
+  
+🛠️ **Tools & Infra** &nbsp; Unity · Docker · Vercel · GitHub Actions
+ 
+🗄️ **Database** &nbsp; MySQL
+ 
