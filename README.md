@@ -9,6 +9,7 @@
 🎓 B.S. Computer Engineering @ Dankook University `2023.03–`
  
 ✈️ Exchange Student in Information Systems Technology and Design @ SUTD `2025.09–2025.12`
+
 ---
 
 ### Projects
