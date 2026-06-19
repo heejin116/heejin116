@@ -3,8 +3,6 @@
 ---
 
 ### About
-
-💡 Building things at the intersection of AI, design, and social impact.
  
 🎓 B.S. Computer Engineering @ Dankook University `2023.03–`
  
