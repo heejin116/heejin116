@@ -4,9 +4,9 @@
 
 ## About
 
-💡 Building things at the intersection of AI, mobile, and social impact.
-🎓 B.S. Software Convergence @ Dankook University `2022.03–`
-✈️ Exchange Student in Computer Science @ SUTD(Singapore University of Technology and Design) `2025.09–2025.12`
+💡 Building things at the intersection of AI, design, and social impact.
+🎓 B.S. Computer Engineering @ Dankook University `2023.03–`
+✈️ Exchange Student in Information Systems Technology and Design @ SUTD(Singapore University of Technology and Design) `2025.09–2025.12`
 
 ---
 
