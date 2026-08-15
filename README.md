@@ -23,7 +23,7 @@ Exchange Student in Information Systems Technology and Design @ SUTD (Singapore 
 
 ### Certifications
 
-SQLD — 한국데이터산업진흥원 `2026.03`
+SQLD — 한국데이터산업진흥원 `2025.09`
 
 정보처리기사 — 필기 합격
 
