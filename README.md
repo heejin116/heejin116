@@ -4,7 +4,7 @@
 
 ### About
  
-B.S. Computer Engineering @ Dankook University `2023.03–`
+B.S. Computer Engineering @ Dankook University `2023.03–2027.02 (졸업예정)`
  
 Exchange Student in Information Systems Technology and Design @ SUTD (Singapore University of Technology and Design) `2025.09–2025.12`
 
@@ -25,19 +25,19 @@ Exchange Student in Information Systems Technology and Design @ SUTD (Singapore 
 
 ### Certifications
 
-SQLD — 한국데이터산업진흥원 `2025.09`
-
-정보처리기사 — 필기 합격
+| Certification | Issuer | Result | Date |
+|:--|:--|:--|:--|
+| TOEIC Speaking | ETS | Advanced Low | `2026.09` |
+| 정보처리기사 | 한국산업인력공단 | 필기 합격 | `2026.03` |
+| SQLD | 한국데이터산업진흥원 | 합격 | `2025.09` |
 
 ---
 
 ### Tech Stack
 
-**Languages** &nbsp; `Python` `Dart` `TypeScript` `JavaScript` `C#`
-
-**Frameworks & Libraries** &nbsp; `Flutter` `React` `PyTorch` `HuggingFace`
-  
-**Tools & Infra** &nbsp; `Unity` `GitHub Actions`
- 
-**Database** &nbsp; `MySQL`
- 
+| | |
+|:--|:--|
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square"/> |
+| **Frameworks & Libraries** | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> |
+| **Tools & Infra** | <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> |
+| **Database** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> |
