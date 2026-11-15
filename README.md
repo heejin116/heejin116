@@ -11,15 +11,19 @@ Exchange Student in Information Systems Technology and Design @ SUTD (Singapore 
 ---
 
 ### Projects
-**[eartips](https://github.com/EarTip/CD-ET/tree/main)** — 노이즈 캔슬링 이어폰 사용자를 위한 위험 소리 감지 앱 `Flutter · YAMNet · TFLite`
+**[ZipPay](https://github.com/heejin116/zippay)** — 결제 코어(거래원장·멱등성·동시성) + 교내 클라우드 3계층 인프라(LB·웹 서버 이중화·DB), 장애 전환·백업 복구 실측 `Java 21 · Spring Boot · PostgreSQL · Terraform · Ansible · nginx`
+ 
+**[Carbon-Aware Spatio-Temporal Scheduler](https://github.com/HyeonJeong-S/carbon-aware-scheduler)** — 8개 글로벌 전력망 리전의 탄소 집약도를 LSTM으로 예측해 클라우드 워크로드를 저탄소 리전과 시간대로 스케줄링 `Python · PyTorch · LSTM`
+ 
+**[OnWork](https://github.com/Team-onwork-groupware/onwork-groupware)** — 멀티에이전트 개발 파이프라인으로 구현한 그룹웨어(근태·휴가·인사), 근태 파트 설계와 요구사항 추적 매트릭스 담당 `Spring Boot · React · PostgreSQL · Redis`
  
 **[DeClone](https://github.com/Khuthon2026)** — 양산형·클론 앱을 AI로 분석해 안전한 앱 선택을 돕는 서비스 `React 19 · TypeScript · Vite · Tailwind CSS`
  
-**[XR Fishing]** — 낚시 입문자를 위한 VR 낚시 체험 시뮬레이션, 물리 기반 캐스팅·릴링, 다중 환경 지원 (Meta Quest 3) `Unity 6 · C#`
+**[eartips](https://github.com/EarTip/CD-ET/tree/main)** — 노이즈 캔슬링 이어폰 사용자를 위한 위험 소리 감지 앱 `Flutter · YAMNet · TFLite`
  
 **[NLI Fine-tuning](https://github.com/heejin116/gpt2-xnli-lora)** — 다국어 NLI 태스크 LoRA vs Full Fine-tuning 비교 연구 `Python · HuggingFace · GPT-2`
-
-**[Carbon-Aware Spatio-Temporal Scheduler](https://github.com/HyeonJeong-S/carbon-aware-scheduler)** — 8개 글로벌 전력망 리전의 탄소 집약도를 LSTM으로 예측해 클라우드 워크로드를 저탄소 리전과 시간대로 스케줄링 `Python · PyTorch · LSTM`
+ 
+**[XR Fishing]** — 낚시 입문자를 위한 VR 낚시 체험 시뮬레이션, 물리 기반 캐스팅·릴링, 다중 환경 지원 (Meta Quest 3) `Unity 6 · C#`
 
 ---
 
